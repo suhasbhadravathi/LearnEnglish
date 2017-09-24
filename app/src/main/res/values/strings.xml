@@ -1,0 +1,16 @@
+<resources>
+    <string name="speech_not_supported">speech_not_supported</string>
+    <string name="speech_prompt">speech_prompt</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="tap_to_record">tap to record</string>
+
+    <string name="speak">Speak</string>
+
+    <string name="app_name">ಇಂಗ್ಲೀಶ್ ಕಲೀಯೀರಿ</string>
+    <string name="info">Info</string>
+    />
+</resources>

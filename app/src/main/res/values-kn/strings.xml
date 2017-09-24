@@ -1,0 +1,13 @@
+<resources>
+
+
+    <string name="tap_to_record">ರೆಕಾರ್ಡ್ ಮಾಡಲೂ ವತ್ತಿ</string>
+    <string name="speak">ಮಾತನಾಡಿ</string>
+    <string name="app_name">ಇಂಗ್ಲೀಶ್ ಕಲಿಯಿರಿ</string>
+    <string name="message">ಪಾಟ ಮುಗಿಯಿತು, ಮತ್ತೆ ಪ್ರಯತ್ನೆಸಿ</string>
+    <string name="info">ಮಾಹಿತಿ</string>
+    <string name="correct">ಸರಿಯಾಗಿದೆ</string>
+    <string name="wrong">ತಪ್ಪಾಗಿದೆ</string>
+
+
+</resources>
