@@ -200,17 +200,11 @@ public class MainActivity extends AppCompatActivity {
         transaction.setCustomAnimations(R.anim.exit_to_left, 0);
         transaction.replace(R.id.fl_container, fragmentQuestion);
         transaction.commit();
-
-
-
-
     }
 
     private void switchFragmentToLearn() {
 
-        Fragment fragmentLearn = null;
-        fragmentLearn = new FragmentLearn();
-
+        Fragment fragmentLearn = new FragmentLearn();
         FragmentManager manager = getSupportFragmentManager();
         FragmentTransaction transaction = manager.beginTransaction();
         transaction.setCustomAnimations(R.anim.exit_to_left, 0);
